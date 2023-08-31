@@ -18,7 +18,7 @@ Mohamed Elfadil</a></h1>
 
 - 📫 How to reach me **mo7amedelfadil@gmail.com**
 
-- 📄 Know about my experiences <a href="Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/mo7amedElfadil/mo7amedElfadil/blob/main/Credentials/Mohamed Elfadil CV.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 	
