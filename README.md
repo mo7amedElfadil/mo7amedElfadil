@@ -25,9 +25,6 @@ Mohamed Elfadil</a></h1>
 - 📄 Know about my experiences <a href="https://github.com/mo7amedElfadil/mo7amedElfadil/blob/main/Credentials/Mohamed Elfadil CV.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-	<br/>
-<h3 align="center" > <img src="https://github-readme-activity-graph.cyclic.app/graph?username={mo7amedElfadil}&theme={github}"  style="margin-right: 10px;"> </h3>
-
 
 
 <p align="center">
