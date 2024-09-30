@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/mo7amedElfadil" target="blank">
 Mohamed Elfadil</a></h1>
 <h3 align="center">A passionate Software Engineer & Data Analyst from Sudan &#127480;&#127465</h3>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer" />
   <img src="https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Data_Analyst-000000?style=for-the-badge&logo=github&logoColor=white" alt="Data Analyst" />
@@ -72,7 +72,7 @@ Mohamed Elfadil</a></h1>
 <a target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 <a target="blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
 <a target="blank"><img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /></a>
-
+<a target="blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
 </div>
 
 <div>
