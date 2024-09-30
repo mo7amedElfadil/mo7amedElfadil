@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/mo7amedElfadil" target="blank">
 Mohamed Elfadil</a></h1>
 <h3 align="center">A passionate Software Engineer & Data Analyst from Sudan &#127480;&#127465</h3>
+<div>
   <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer" />
   <img src="https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Data_Analyst-000000?style=for-the-badge&logo=github&logoColor=white" alt="Data Analyst" />
   <img src="https://img.shields.io/badge/DevOps_Engineer-000000?style=for-the-badge&logo=github&logoColor=white" alt="DevOps Engineer" />
-
+</div>
 <p align="center"> 
   <a target="blank" href="https://www.linkedin.com/in/mohamedelfadil/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a target="blank" href="https://github.com/mo7amedElfadil"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
