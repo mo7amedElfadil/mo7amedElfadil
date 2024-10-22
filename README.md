@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/mo7amedElfadil" target="blank">
 Mohamed Elfadil</a></h1>
-<h3 align="center">A passionate Software Engineer & Data Analyst from Sudan &#127480;&#127465</h3>
+<h3 align="center">A Software Engineer & Data Analyst from Sudan &#127480;&#127465</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer" />
   <img src="https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
