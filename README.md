@@ -15,18 +15,21 @@ Mohamed Elfadil</a></h1>
 </p>
 
 
+> 🚀 **Current Focus:** IoT Solution Architect & Founder @ **Diaminate**—designing end-to-end sensor platforms (edge → cloud → dashboard) and automation workflows for Founders and Investors.  
+> 🛠 **What I do:** Architecture • Backend • DevOps • Front-end • Full-stack delivery.
 
-> 🔭 I’m currently working as a freelance Software Engineer, managing projects that incorporate Backend | Devops | Frontend | Full Stack.
+> 🎖️ **Credentials:**  
+> &nbsp;&nbsp;• ALX SE Certified – <a href="https://www.alxafrica.com" target="_blank">ALX</a>  
+> &nbsp;&nbsp;• IBM & Kaggle Data-Science badges (Python, ML, AI)  
+> &nbsp;&nbsp;• IEEE Robotics & Automation Society member
 
-> 🎖️ ALX SE Certified <a href="https://www.alxafrica.com" target="blank">ALX</a>.
+> 💬 **Ask me about:** IoT & Edge Design • Data Engineering • Python • C • JavaScript/TypeScript • DevOps • Database Architecture • Embedded Systems.
 
-> 💬 Ask me about **Full Stack Development, Data Analysis, Python, C, JavaScript, DevOps, & Database Management**.
+> 🌱 **Learning & Experimenting:** Machine Learning · Time-series forecasting · TinyML on microcontrollers.
 
-> 🌱 Currently exploring **Machine Learning, Data Science, & Artificial Intelligence**.
+> 🤖 **Fun fact:** I’ll happily spend hours automating a task that saves me minutes—because future-me always thanks present-me. #BashScripting
 
-> 🤖 Something to know about me: I will spend hours automating a task that will save me minutes #BashScripting.
-
-> 📦 Skilled in **Python, JavaScript, SQL, React, NestJS, GraphQL, and Docker, and more**.
+> 📦 **Toolbox:** Python · JavaScript/TypeScript · SQL · React · NestJS · GraphQL · Docker · Kubernetes · Azure · GitHub Actions · Bash · Pandas · Plotly
 
 > 📄 Know about my experiences <a href="https://github.com/mo7amedElfadil/mo7amedElfadil/blob/main/Credentials/Mohamed Elfadil Resume.pdf" target="blank">Resume</a>
 
