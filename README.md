@@ -34,21 +34,25 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo7amedElfadil&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedElfadil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedElfadil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7amedElfadil&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo7amedElfadil&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo7amedElfadil&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo7amedElfadil&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mo7amedElfadil&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo7amedElfadil&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mo7amedElfadil&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo7amedElfadil&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
